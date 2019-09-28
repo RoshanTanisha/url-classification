@@ -4,4 +4,4 @@
 - The load_data.py contains the method for loading a subset of data.
 
 ### TODO: 
-[] Try with SVM model.
+- [ ] Try with SVM model.
