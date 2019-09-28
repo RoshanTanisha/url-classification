@@ -3,4 +3,5 @@
 - Contains a Recurrent Neural Network model and a simple regression model.
 - The load_data.py contains the method for loading a subset of data.
 
-TODO: Try with SVM model.
+### TODO: 
+[] Try with SVM model.
